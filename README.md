@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+
+With this app you can turn your sentences into three different fictional languages: *Yoda, Valyrian, Dothraki* and also into *Morse Code*.
+
+**IMPORTANT NOICE: THE API ONLY ACCEPTS 5 REQUESTS PER HOUR**
+
 ## Address
 
 https://fictional-translation.netlify.app/
