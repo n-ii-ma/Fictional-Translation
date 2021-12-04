@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-With this app you can turn your sentences into three different fictional languages: Yoda, Valyrian, Dothraki and also into Morse Code.
+With this app you can turn your sentences into three different fictional languages: *Yoda, Valyrian, Dothraki* and also into *Morse Code*.
 
 **IMPORTANT NOICE: THE API ONLY ACCEPTS 5 REQUESTS PER HOUR**
 
